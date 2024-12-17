@@ -61,7 +61,7 @@ seo:
   metaDescription: >-
     Discover the best tennis lessons near you! Learn tips for finding qualified
     coaches, local courts, and improving your game.
-  addTitleSuffix: false
+  addTitleSuffix: true
   metaTags: []
 colors: bg-light-fg-dark
 styles:
