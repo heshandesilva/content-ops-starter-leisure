@@ -4,8 +4,8 @@ title: Discovering Indoor Tennis Courts in Epping
 date: '2024-12-17'
 author: content/data/person1.json
 excerpt: >-
-  Facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper.
-  Donec sed facilisis nibh.
+  Explore the benefits of indoor tennis courts in Epping. Enjoy year-round play
+  in controlled environments, top facilities, and engaging community events.
 featuredImage:
   type: ImageBlock
   url: /images/pexels-cottonbro-9648672.jpg
