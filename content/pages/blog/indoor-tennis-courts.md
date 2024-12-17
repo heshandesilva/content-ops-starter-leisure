@@ -55,7 +55,7 @@ isFeatured: false
 isDraft: false
 seo:
   type: Seo
-  metaTitle: lorem-ipsum
+  metaTitle: Discovering Indoor Tennis Courts in Epping
   metaDescription: >-
     Explore the benefits of indoor tennis courts in Epping. Enjoy year-round
     play in controlled environments, top facilities, and engaging community
