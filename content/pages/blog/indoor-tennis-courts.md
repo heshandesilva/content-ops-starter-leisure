@@ -62,6 +62,7 @@ seo:
     events.
   addTitleSuffix: true
   metaTags: []
+  socialImage: /images/pexels-cottonbro-9648672.jpg
 colors: bg-light-fg-dark
 styles:
   self:
