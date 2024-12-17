@@ -4,12 +4,14 @@ title: Discovering Tennis Lessons Near Epping
 date: '2024-12-17'
 author: content/data/person1.json
 excerpt: >-
-  Facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper.
-  Donec sed facilisis nibh.
+  Discover the best tennis lessons near you! Learn tips for finding qualified
+  coaches, local courts, and improving your game.
 featuredImage:
   type: ImageBlock
-  url: /images/abstract-feature1.svg
-  altText: Thumbnail
+  url: /images/pexels-pixabay-209977.jpg
+  altText: >-
+    Discover the best tennis lessons near you! Learn tips for finding qualified
+    coaches, local courts, and improving your game.
   elementId: ''
   styles:
     self:
@@ -55,10 +57,13 @@ isFeatured: false
 isDraft: false
 seo:
   type: Seo
-  metaTitle: lorem-ipsum
-  metaDescription: lorem-ipsum
-  addTitleSuffix: false
+  metaTitle: Discovering Tennis Lessons Near Epping
+  metaDescription: >-
+    Discover the best tennis lessons near you! Learn tips for finding qualified
+    coaches, local courts, and improving your game.
+  addTitleSuffix: true
   metaTags: []
+  socialImage: /images/pexels-pixabay-209977.jpg
 colors: bg-light-fg-dark
 styles:
   self:
