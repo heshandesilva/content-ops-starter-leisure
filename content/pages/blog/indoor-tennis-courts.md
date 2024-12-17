@@ -8,8 +8,8 @@ excerpt: >-
   Donec sed facilisis nibh.
 featuredImage:
   type: ImageBlock
-  url: /images/abstract-feature1.svg
-  altText: Thumbnail
+  url: /images/pexels-cottonbro-9648672.jpg
+  altText: Discovering Indoor Tennis Courts in Epping
   elementId: ''
   styles:
     self:
