@@ -9,7 +9,9 @@ excerpt: >-
 featuredImage:
   type: ImageBlock
   url: /images/pexels-pixabay-209977.jpg
-  altText: Thumbnail
+  altText: >-
+    Discover the best tennis lessons near you! Learn tips for finding qualified
+    coaches, local courts, and improving your game.
   elementId: ''
   styles:
     self:
