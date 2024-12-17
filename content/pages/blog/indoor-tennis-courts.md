@@ -60,7 +60,7 @@ seo:
     Explore the benefits of indoor tennis courts in Epping. Enjoy year-round
     play in controlled environments, top facilities, and engaging community
     events.
-  addTitleSuffix: false
+  addTitleSuffix: true
   metaTags: []
 colors: bg-light-fg-dark
 styles:
