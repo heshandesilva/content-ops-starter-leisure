@@ -8,9 +8,8 @@ topSections:
       text: Featured Post
       color: text-dark
       type: TitleBlock
-    subtitle: This is the subtitle
-    posts:
-      - content/pages/blog/top-ten-lessons-we-learned.md
+    subtitle: ''
+    posts: []
     showThumbnail: true
     showExcerpt: true
     showDate: true
