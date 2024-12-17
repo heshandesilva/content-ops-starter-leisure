@@ -58,7 +58,9 @@ isDraft: false
 seo:
   type: Seo
   metaTitle: lorem-ipsum
-  metaDescription: lorem-ipsum
+  metaDescription: >-
+    Discover the best tennis lessons near you! Learn tips for finding qualified
+    coaches, local courts, and improving your game.
   addTitleSuffix: false
   metaTags: []
 colors: bg-light-fg-dark
