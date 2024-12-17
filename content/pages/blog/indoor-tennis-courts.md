@@ -9,7 +9,7 @@ excerpt: >-
 featuredImage:
   type: ImageBlock
   url: /images/pexels-cottonbro-9648672.jpg
-  altText: Thumbnail
+  altText: Discovering Indoor Tennis Courts in Epping
   elementId: ''
   styles:
     self:
