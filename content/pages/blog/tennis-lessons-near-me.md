@@ -63,6 +63,7 @@ seo:
     coaches, local courts, and improving your game.
   addTitleSuffix: true
   metaTags: []
+  socialImage: /images/pexels-pixabay-209977.jpg
 colors: bg-light-fg-dark
 styles:
   self:
