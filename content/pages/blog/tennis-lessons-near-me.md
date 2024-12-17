@@ -57,7 +57,7 @@ isFeatured: false
 isDraft: false
 seo:
   type: Seo
-  metaTitle: lorem-ipsum
+  metaTitle: Discovering Tennis Lessons Near Epping
   metaDescription: >-
     Discover the best tennis lessons near you! Learn tips for finding qualified
     coaches, local courts, and improving your game.
