@@ -53,7 +53,7 @@ isFeatured: false
 isDraft: false
 seo:
   type: Seo
-  metaTitle: lorem-ipsum
+  metaTitle: Creative and Fun School Holiday Programs in Epping
   metaDescription: lorem-ipsum
   addTitleSuffix: false
   metaTags: []
