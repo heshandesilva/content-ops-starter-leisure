@@ -56,7 +56,9 @@ isDraft: false
 seo:
   type: Seo
   metaTitle: lorem-ipsum
-  metaDescription: lorem-ipsum
+  metaDescription: >-
+    Learn to swim in Epping! Fun, safe swimming lessons for all ages and skill
+    levels, led by experienced instructors in a supportive environment.
   addTitleSuffix: false
   metaTags: []
 colors: bg-light-fg-dark
