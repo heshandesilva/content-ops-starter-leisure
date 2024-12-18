@@ -9,7 +9,7 @@ excerpt: >-
 featuredImage:
   type: ImageBlock
   url: /images/pexels-sbenavides-16318474.jpg
-  altText: Thumbnail
+  altText: 'Beginner’s Guide to Swimming Lessons in Epping: What to Expect'
   elementId: ''
   styles:
     self:
