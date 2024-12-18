@@ -9,7 +9,7 @@ excerpt: >-
 featuredImage:
   type: ImageBlock
   url: /images/pexels-kampus-8954892.jpg
-  altText: Thumbnail
+  altText: Creative and Fun School Holiday Programs in Epping
   elementId: ''
   styles:
     self:
