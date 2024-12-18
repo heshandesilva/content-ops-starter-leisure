@@ -8,7 +8,8 @@ excerpt: >-
   Donec sed facilisis nibh.
 featuredImage:
   type: ImageBlock
-  url: /images/abstract-feature1.svg
+  url: >-
+    /images/volleyball-court-in-Sunnyside-provided-by-Leon-Dubov-owner-of-QBK-Sports.jpg
   altText: Thumbnail
   elementId: ''
   styles:
