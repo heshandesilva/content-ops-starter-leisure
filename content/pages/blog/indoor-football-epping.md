@@ -4,8 +4,8 @@ title: 'Beginner’s Guide to Indoor Football in Epping: Rules, Tips, and Gear'
 date: '2024-12-18'
 author: content/data/person1.json
 excerpt: >-
-  Facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper.
-  Donec sed facilisis nibh.
+  Explore indoor football in Epping! Enjoy year-round fun and fitness with
+  exciting matches and practice sessions for players of all skill levels.
 featuredImage:
   type: ImageBlock
   url: /images/pexels-tima-miroshnichenko-6077788.jpg
@@ -55,10 +55,13 @@ isFeatured: false
 isDraft: false
 seo:
   type: Seo
-  metaTitle: lorem-ipsum
-  metaDescription: lorem-ipsum
-  addTitleSuffix: false
+  metaTitle: 'Beginner’s Guide to Indoor Football in Epping: Rules, Tips, and Gear'
+  metaDescription: >-
+    Explore indoor football in Epping! Enjoy year-round fun and fitness with
+    exciting matches and practice sessions for players of all skill levels.
+  addTitleSuffix: true
   metaTags: []
+  socialImage: /images/pexels-tima-miroshnichenko-6077788.jpg
 colors: bg-light-fg-dark
 styles:
   self:
