@@ -8,8 +8,8 @@ excerpt: >-
   Donec sed facilisis nibh.
 featuredImage:
   type: ImageBlock
-  url: /images/abstract-feature1.svg
-  altText: Thumbnail
+  url: /images/pexels-case-originals-3601184.jpg
+  altText: 'Essential Gear for Children''s Cricket in Epping: A Parent’s Checklist'
   elementId: ''
   styles:
     self:
