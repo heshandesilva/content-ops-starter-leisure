@@ -57,6 +57,7 @@ seo:
   metaDescription: lorem-ipsum
   addTitleSuffix: true
   metaTags: []
+  socialImage: /images/pexels-kampus-8954892.jpg
 colors: bg-light-fg-dark
 styles:
   self:
