@@ -56,10 +56,12 @@ isFeatured: false
 isDraft: false
 seo:
   type: Seo
-  metaTitle: lorem-ipsum
+  metaTitle: Why Indoor Beach Volleyball Is the Perfect All-Weather Sport
   metaDescription: lorem-ipsum
-  addTitleSuffix: false
+  addTitleSuffix: true
   metaTags: []
+  socialImage: >-
+    /images/volleyball-court-in-Sunnyside-provided-by-Leon-Dubov-owner-of-QBK-Sports.jpg
 colors: bg-light-fg-dark
 styles:
   self:
