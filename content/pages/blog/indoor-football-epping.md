@@ -61,6 +61,7 @@ seo:
     exciting matches and practice sessions for players of all skill levels.
   addTitleSuffix: true
   metaTags: []
+  socialImage: /images/pexels-tima-miroshnichenko-6077788.jpg
 colors: bg-light-fg-dark
 styles:
   self:
