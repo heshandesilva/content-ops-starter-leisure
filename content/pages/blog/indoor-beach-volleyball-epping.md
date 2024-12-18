@@ -60,6 +60,8 @@ seo:
   metaDescription: lorem-ipsum
   addTitleSuffix: true
   metaTags: []
+  socialImage: >-
+    /images/volleyball-court-in-Sunnyside-provided-by-Leon-Dubov-owner-of-QBK-Sports.jpg
 colors: bg-light-fg-dark
 styles:
   self:
