@@ -61,6 +61,7 @@ seo:
     levels, led by experienced instructors in a supportive environment.
   addTitleSuffix: true
   metaTags: []
+  socialImage: /images/pexels-sbenavides-16318474.jpg
 colors: bg-light-fg-dark
 styles:
   self:
