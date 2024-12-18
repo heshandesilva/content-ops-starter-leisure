@@ -61,6 +61,7 @@ seo:
     designed for children to enjoy and develop their love for the game.
   addTitleSuffix: true
   metaTags: []
+  socialImage: /images/pexels-case-originals-3601184.jpg
 colors: bg-light-fg-dark
 styles:
   self:
