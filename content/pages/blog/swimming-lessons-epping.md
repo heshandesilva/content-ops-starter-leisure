@@ -8,8 +8,8 @@ excerpt: >-
   Donec sed facilisis nibh.
 featuredImage:
   type: ImageBlock
-  url: /images/abstract-feature1.svg
-  altText: Thumbnail
+  url: /images/pexels-sbenavides-16318474.jpg
+  altText: 'Beginner’s Guide to Swimming Lessons in Epping: What to Expect'
   elementId: ''
   styles:
     self:
