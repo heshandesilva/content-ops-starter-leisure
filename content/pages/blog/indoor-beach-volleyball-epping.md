@@ -57,7 +57,9 @@ isDraft: false
 seo:
   type: Seo
   metaTitle: Why Indoor Beach Volleyball Is the Perfect All-Weather Sport
-  metaDescription: lorem-ipsum
+  metaDescription: >-
+    Experience indoor beach volleyball in Epping! Join exciting games and
+    improve your skills in a fun, weather-proof environment for all levels.
   addTitleSuffix: true
   metaTags: []
   socialImage: >-
