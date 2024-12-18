@@ -59,7 +59,7 @@ seo:
   metaDescription: >-
     Introduce your kids to cricket in Epping! Fun, skill-building sessions
     designed for children to enjoy and develop their love for the game.
-  addTitleSuffix: false
+  addTitleSuffix: true
   metaTags: []
 colors: bg-light-fg-dark
 styles:
