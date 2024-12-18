@@ -55,7 +55,7 @@ isFeatured: false
 isDraft: false
 seo:
   type: Seo
-  metaTitle: lorem-ipsum
+  metaTitle: 'Beginner’s Guide to Indoor Football in Epping: Rules, Tips, and Gear'
   metaDescription: >-
     Explore indoor football in Epping! Enjoy year-round fun and fitness with
     exciting matches and practice sessions for players of all skill levels.
