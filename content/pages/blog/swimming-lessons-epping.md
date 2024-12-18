@@ -4,8 +4,8 @@ title: 'Beginner’s Guide to Swimming Lessons in Epping: What to Expect'
 date: '2024-12-18'
 author: content/data/person1.json
 excerpt: >-
-  Facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper.
-  Donec sed facilisis nibh.
+  Learn to swim in Epping! Fun, safe swimming lessons for all ages and skill
+  levels, led by experienced instructors in a supportive environment.
 featuredImage:
   type: ImageBlock
   url: /images/pexels-sbenavides-16318474.jpg
@@ -55,10 +55,13 @@ isFeatured: false
 isDraft: false
 seo:
   type: Seo
-  metaTitle: lorem-ipsum
-  metaDescription: lorem-ipsum
-  addTitleSuffix: false
+  metaTitle: 'Beginner’s Guide to Swimming Lessons in Epping: What to Expect'
+  metaDescription: >-
+    Learn to swim in Epping! Fun, safe swimming lessons for all ages and skill
+    levels, led by experienced instructors in a supportive environment.
+  addTitleSuffix: true
   metaTags: []
+  socialImage: /images/pexels-sbenavides-16318474.jpg
 colors: bg-light-fg-dark
 styles:
   self:
