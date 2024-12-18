@@ -4,8 +4,8 @@ title: 'Essential Gear for Children''s Cricket in Epping: A Parent’s Checklist
 date: '2024-12-18'
 author: content/data/person1.json
 excerpt: >-
-  Facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper.
-  Donec sed facilisis nibh.
+  Introduce your kids to cricket in Epping! Fun, skill-building sessions
+  designed for children to enjoy and develop their love for the game.
 featuredImage:
   type: ImageBlock
   url: /images/pexels-case-originals-3601184.jpg
@@ -55,10 +55,13 @@ isFeatured: false
 isDraft: false
 seo:
   type: Seo
-  metaTitle: lorem-ipsum
-  metaDescription: lorem-ipsum
-  addTitleSuffix: false
+  metaTitle: 'Essential Gear for Children''s Cricket in Epping: A Parent’s Checklist'
+  metaDescription: >-
+    Introduce your kids to cricket in Epping! Fun, skill-building sessions
+    designed for children to enjoy and develop their love for the game.
+  addTitleSuffix: true
   metaTags: []
+  socialImage: /images/pexels-case-originals-3601184.jpg
 colors: bg-light-fg-dark
 styles:
   self:
