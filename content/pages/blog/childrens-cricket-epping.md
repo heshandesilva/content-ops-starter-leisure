@@ -9,7 +9,7 @@ excerpt: >-
 featuredImage:
   type: ImageBlock
   url: /images/pexels-case-originals-3601184.jpg
-  altText: Thumbnail
+  altText: 'Essential Gear for Children''s Cricket in Epping: A Parent’s Checklist'
   elementId: ''
   styles:
     self:
