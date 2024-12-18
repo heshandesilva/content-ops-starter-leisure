@@ -10,7 +10,7 @@ featuredImage:
   type: ImageBlock
   url: >-
     /images/volleyball-court-in-Sunnyside-provided-by-Leon-Dubov-owner-of-QBK-Sports.jpg
-  altText: Thumbnail
+  altText: indoor beach vollyball
   elementId: ''
   styles:
     self:
