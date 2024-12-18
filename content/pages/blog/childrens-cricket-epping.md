@@ -56,7 +56,9 @@ isDraft: false
 seo:
   type: Seo
   metaTitle: lorem-ipsum
-  metaDescription: lorem-ipsum
+  metaDescription: >-
+    Introduce your kids to cricket in Epping! Fun, skill-building sessions
+    designed for children to enjoy and develop their love for the game.
   addTitleSuffix: false
   metaTags: []
 colors: bg-light-fg-dark
