@@ -3,13 +3,11 @@ type: PostLayout
 title: Creative and Fun School Holiday Programs in Epping
 date: '2024-12-18'
 author: content/data/person1.json
-excerpt: >-
-  Facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper.
-  Donec sed facilisis nibh.
+excerpt: Creative and Fun School Holiday Programs in Epping
 featuredImage:
   type: ImageBlock
-  url: /images/abstract-feature1.svg
-  altText: Thumbnail
+  url: /images/pexels-kampus-8954892.jpg
+  altText: Creative and Fun School Holiday Programs in Epping
   elementId: ''
   styles:
     self:
@@ -55,10 +53,11 @@ isFeatured: false
 isDraft: false
 seo:
   type: Seo
-  metaTitle: lorem-ipsum
+  metaTitle: Creative and Fun School Holiday Programs in Epping
   metaDescription: lorem-ipsum
-  addTitleSuffix: false
+  addTitleSuffix: true
   metaTags: []
+  socialImage: /images/pexels-kampus-8954892.jpg
 colors: bg-light-fg-dark
 styles:
   self:
