@@ -58,7 +58,7 @@ seo:
   type: Seo
   metaTitle: Why Indoor Beach Volleyball Is the Perfect All-Weather Sport
   metaDescription: lorem-ipsum
-  addTitleSuffix: false
+  addTitleSuffix: true
   metaTags: []
 colors: bg-light-fg-dark
 styles:
