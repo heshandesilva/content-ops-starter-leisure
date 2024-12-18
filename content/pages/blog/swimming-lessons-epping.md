@@ -55,7 +55,7 @@ isFeatured: false
 isDraft: false
 seo:
   type: Seo
-  metaTitle: lorem-ipsum
+  metaTitle: 'Beginner’s Guide to Swimming Lessons in Epping: What to Expect'
   metaDescription: >-
     Learn to swim in Epping! Fun, safe swimming lessons for all ages and skill
     levels, led by experienced instructors in a supportive environment.
