@@ -9,7 +9,7 @@ excerpt: >-
 featuredImage:
   type: ImageBlock
   url: /images/pexels-tima-miroshnichenko-6077788.jpg
-  altText: Thumbnail
+  altText: 'Beginner’s Guide to Indoor Football in Epping: Rules, Tips, and Gear'
   elementId: ''
   styles:
     self:
